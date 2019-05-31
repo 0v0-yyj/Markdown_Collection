@@ -1,7 +1,14 @@
-### Image resize and Alignment
+### Commonly Add Image to Github
+
+```github
+![ImageName] (http source)
+```
+
+
+### Image Resize and Alignment in Github
 
 ```Github
- <p>
-   <img width = "" height = "" src "">
+ <p align = "center/left/right">
+   <img width = "" height = "" src ".PNG">
  </p>
- ```
+```
