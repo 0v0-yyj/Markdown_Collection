@@ -1,7 +1,7 @@
 ### :zap: Commonly Add Image to Github
 
 ```github
-![ImageName] (http source)
+![ImageName] (URL)
 ```
 
 
@@ -9,6 +9,6 @@
 
 ```Github
  <p align = "center/left/right">
-   <img width = "" height = "" src ".PNG">
+   <img width = "" height = "" src "URL.PNG">
  </p>
 ```
